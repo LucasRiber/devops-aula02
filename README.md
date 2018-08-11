@@ -1,4 +1,5 @@
 # devops-aula02
-# James Dean
+# Christian Bale
 # Marlon Brando
 # Al Pacino
+# Megan Fox
